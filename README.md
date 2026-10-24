@@ -3,15 +3,14 @@
   <br><br>
   <h1>Ryvanda</h1>
   <p>
-    <b>QA Engineer • Commodity Exporter & Tech Entrepreneur • Systems Builder</b><br>
-    <i>"As above, so below — Bridging verified quality into tangible ventures."</i>
+    <b>QA Engineer • Systems Architect • Builder</b><br>
+    <i>"As above, so below — Bridging verified quality into tangible reality."</i>
   </p>
 
   <!-- Badges Row -->
   <p>
     <a href="https://github.com/Ryvanda"><img src="https://img.shields.io/badge/ARCHETYPE-I._THE_MAGICIAN-d4af37?style=for-the-badge&logoColor=white" alt="Archetype"/></a>
-    <a href="https://github.com/Ryvanda/ASCEND"><img src="https://img.shields.io/badge/VENTURE-ASCEND-0d1117?style=for-the-badge&logo=diagram-project&logoColor=white" alt="Ascend"/></a>
-    <a href="https://github.com/Ryvanda"><img src="https://img.shields.io/badge/EXPORTER-RYCO_SPICES-0d1117?style=for-the-badge&logo=spdx&logoColor=white" alt="Ryco Spices"/></a>
+    <a href="https://github.com/Ryvanda"><img src="https://img.shields.io/badge/FOCUS-QA_%26_SYSTEMS-0d1117?style=for-the-badge&logoColor=white" alt="Focus"/></a>
     <a href="https://github.com/Ryvanda"><img src="https://img.shields.io/badge/CAMPUS-TELKOM_PURWOKERTO-ea284e?style=for-the-badge" alt="Telkom University"/></a>
     <a href="https://github.com/Ryvanda?tab=followers"><img src="https://img.shields.io/github/followers/Ryvanda?style=for-the-badge&color=0d1117&label=FOLLOWERS&logo=github" alt="Followers"/></a>
   </p>
@@ -24,7 +23,7 @@
 <table>
   <tr>
     <td width="240" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Ryvanda/Ryvanda/main/the_magician.png" width="225" alt="I. The Magician" style="border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
+      <img src="https://raw.githubusercontent.com/Ryvanda/Ryvanda/main/the_magician.png" width="220" alt="I. The Magician" style="border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
     </td>
     <td align="left" valign="middle">
 
@@ -35,26 +34,22 @@ const ryvanda: Builder = {
   roles: {
     primary: [
       "Quality Assurance (QA) Engineer",
-      "Entrepreneur (Commodity Exporter & Tech Founder)"
+      "Software Engineer & Systems Builder"
     ],
     subRoles: [
-      "Software Testing & System Verification",
-      "Global B2B Spices Export & Value-First Trade",
-      "Systems Architecture & UML Modeling"
+      "Software Testing & Quality Verification",
+      "Systems Architecture & UML Modeling",
+      "Automated & Manual API Testing"
     ]
   },
   education: "Software Engineering @ Telkom University Purwokerto",
-  ventures: {
-    rycoSpices: "Next-Gen Indonesian Spices Export & Transparent Supply",
-    ascend: "System Architecture & UML Workspace"
-  },
   location: "Indonesia, ID (UTC+07:00)",
   languages: ["id", "en"],
   stack: [
     "Java", "TypeScript", "Python", "FastAPI", "Dart",
     "Flutter", "React", "PostgreSQL", "Supabase", "Linux"
   ],
-  motto: "As above, so below — Bridging verified quality into tangible ventures."
+  motto: "As above, so below — Bridging verified quality into tangible reality."
 };
 ```
 
