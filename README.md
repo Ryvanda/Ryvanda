@@ -19,9 +19,14 @@
 
 <br>
 
-<!-- Two-Column Section: Perfectly Aligned Tarot Card and TypeScript Code -->
-<div>
-<img align="left" width="215" height="376" src="https://raw.githubusercontent.com/Ryvanda/Ryvanda/main/the_magician.png" alt="I. The Magician" style="margin-right: 22px; border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
+<!-- Two-Column Section: Vertically Centered Tarot Card along the Middle Line of Code Block -->
+<div align="center">
+<table>
+  <tr>
+    <td width="240" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Ryvanda/Ryvanda/main/the_magician.png" width="215" alt="I. The Magician" style="border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
+    </td>
+    <td align="left" valign="middle">
 
 ```typescript
 const ryvanda: Builder = {
@@ -49,9 +54,13 @@ const ryvanda: Builder = {
   motto: "As above, so below — Turning conceptual will into working reality."
 };
 ```
+
+</td>
+  </tr>
+</table>
 </div>
 
-<br clear="left"/>
+<br>
 
 > *"Do you know why The Magician succeeds The Fool? While The Fool steps into the unknown with raw, unguided potential, The Magician stands with conscious willpower and purpose. He gathers all four elements upon the altar—the Sword of intellect, the Wand of vision, the Cup of intuition, and the Pentacle of grounded execution. As above, so below: he does not wait for miracles; he builds the bridge between mind and matter."*
 
