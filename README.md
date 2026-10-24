@@ -21,7 +21,7 @@
 <br>
 
 <!-- Two-Column Section: Tarot Card on Left, TypeScript Code on Right -->
-<img align="left" width="220" src="https://raw.githubusercontent.com/Ryvanda/Ryvanda/main/the_magician.jpg" alt="I. The Magician" style="margin-right: 22px; margin-bottom: 16px; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.6);" />
+<img align="left" width="220" src="https://upload.wikimedia.org/wikipedia/commons/d/de/RWS_Tarot_01_Magician.jpg" alt="I. The Magician" style="margin-right: 22px; margin-bottom: 16px; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.6);" />
 
 ```typescript
 const ryvanda: Builder = {
