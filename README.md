@@ -67,8 +67,7 @@ const ryvanda: Builder = {
 
 > *"Do you know why The Magician succeeds The Fool? While The Fool steps into the unknown with raw, unguided potential, The Magician stands with conscious willpower and purpose. He gathers all four elements upon the altar—the Sword of intellect, the Wand of vision, the Cup of intuition, and the Pentacle of grounded execution. As above, so below: he does not wait for miracles; he builds the bridge between mind and matter."*
 
----
-
+<!--
 ### The Four Arcana Tools (Skills & Craft)
 
 <table>
@@ -127,6 +126,7 @@ const ryvanda: Builder = {
 
 - **[Ryco Spices](https://github.com/Ryvanda)** — Next-generation B2B Indonesian spices export initiative focused on transparency, lot tracking, and value-first trade.
 - **[Ascend (Ascend Global Tech)](https://github.com/Ryvanda/ASCEND)** — Lightweight UML, architecture diagramming, and systems modeling workspace for engineers.
+-->
 
 ---
 
