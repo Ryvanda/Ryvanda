@@ -19,8 +19,9 @@
 
 <br>
 
-<!-- Two-Column Section: Tarot Card on Left, TypeScript Code on Right -->
-<img align="left" width="245" src="https://raw.githubusercontent.com/Ryvanda/Ryvanda/main/the_magician.png" alt="I. The Magician" style="margin-right: 24px; margin-bottom: 16px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
+<!-- Two-Column Section: Perfectly Aligned Tarot Card and TypeScript Code -->
+<div>
+<img align="left" width="215" height="376" src="https://raw.githubusercontent.com/Ryvanda/Ryvanda/main/the_magician.png" alt="I. The Magician" style="margin-right: 22px; border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
 
 ```typescript
 const ryvanda: Builder = {
@@ -48,6 +49,7 @@ const ryvanda: Builder = {
   motto: "As above, so below — Turning conceptual will into working reality."
 };
 ```
+</div>
 
 <br clear="left"/>
 
