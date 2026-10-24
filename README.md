@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td width="240" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Ryvanda/Ryvanda/main/the_magician.png" width="215" alt="I. The Magician" style="border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
+      <img src="https://raw.githubusercontent.com/Ryvanda/Ryvanda/main/the_magician.png" width="225" alt="I. The Magician" style="border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
     </td>
     <td align="left" valign="middle">
 
@@ -32,7 +32,7 @@
 const ryvanda: Builder = {
   name: "Ryvanda",
   pronouns: "he/him",
-  role: "Software Engineer & Systems Architect",
+  role: "Software Engineer, QA & Systems Architect",
   arcana: "I - The Magician (Manifestation & Systems Architecture)",
   education: "Software Engineering @ Telkom University Purwokerto",
   ventures: {
@@ -42,8 +42,13 @@ const ryvanda: Builder = {
   location: "Indonesia, ID (UTC+07:00)",
   languages: ["id", "en"],
   stack: [
-    "TypeScript", "JavaScript", "Python", "FastAPI",
+    "Java", "TypeScript", "JavaScript", "Python", "FastAPI",
     "Flutter", "Dart", "React", "PostgreSQL", "Supabase"
+  ],
+  capabilities: [
+    "Quality Assurance (QA) & Software Testing",
+    "Systems Architecture & UML Modeling",
+    "RESTful API Design & Verification"
   ],
   interests: [
     "Systems Thinking & Deep Modular Architecture",
@@ -72,12 +77,14 @@ const ryvanda: Builder = {
   <tr>
     <td width="25%" valign="top">
       <b>The Sword</b><br>
-      <i>Intellect & Logic</i>
+      <i>Intellect, Code & Quality</i>
       <ul>
+        <li>Java & OOP Architecture</li>
+        <li>Quality Assurance (QA) & Testing</li>
         <li>TypeScript / JavaScript</li>
         <li>Python & FastAPI</li>
         <li>Dart / Flutter</li>
-        <li>REST APIs & Schema Design</li>
+        <li>API Testing & Schema Validation</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -88,6 +95,7 @@ const ryvanda: Builder = {
         <li>System & Domain Design</li>
         <li>AI Agents & MCP Tooling</li>
         <li>Product Strategy (MVP)</li>
+        <li>Modular Architecture</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -97,6 +105,7 @@ const ryvanda: Builder = {
         <li>Ryco Spices (B2B Trade)</li>
         <li>Supply Chain Transparency</li>
         <li>PostgreSQL / Supabase</li>
+        <li>Quality Control (QC) & Lots</li>
         <li>Linux & Server Operations</li>
       </ul>
     </td>
@@ -108,6 +117,7 @@ const ryvanda: Builder = {
         <li>Educational Content</li>
         <li>User-Centric Empathy</li>
         <li>Lifelong Craftsmanship</li>
+        <li>Documentation Integrity</li>
       </ul>
     </td>
   </tr>
