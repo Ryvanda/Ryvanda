@@ -3,15 +3,15 @@
   <br><br>
   <h1>Ryvanda</h1>
   <p>
-    <b>Software Engineer • Systems Architect • Tech-Commodity Builder</b><br>
-    <i>"As above, so below — Bridging abstract models into verifiable reality."</i>
+    <b>QA Engineer • Commodity Exporter & Tech Entrepreneur • Systems Builder</b><br>
+    <i>"As above, so below — Bridging verified quality into tangible ventures."</i>
   </p>
 
   <!-- Badges Row -->
   <p>
     <a href="https://github.com/Ryvanda"><img src="https://img.shields.io/badge/ARCHETYPE-I._THE_MAGICIAN-d4af37?style=for-the-badge&logoColor=white" alt="Archetype"/></a>
     <a href="https://github.com/Ryvanda/ASCEND"><img src="https://img.shields.io/badge/VENTURE-ASCEND-0d1117?style=for-the-badge&logo=diagram-project&logoColor=white" alt="Ascend"/></a>
-    <a href="https://github.com/Ryvanda"><img src="https://img.shields.io/badge/COMMODITY-RYCO_SPICES-0d1117?style=for-the-badge&logo=spdx&logoColor=white" alt="Ryco Spices"/></a>
+    <a href="https://github.com/Ryvanda"><img src="https://img.shields.io/badge/EXPORTER-RYCO_SPICES-0d1117?style=for-the-badge&logo=spdx&logoColor=white" alt="Ryco Spices"/></a>
     <a href="https://github.com/Ryvanda"><img src="https://img.shields.io/badge/CAMPUS-TELKOM_PURWOKERTO-ea284e?style=for-the-badge" alt="Telkom University"/></a>
     <a href="https://github.com/Ryvanda?tab=followers"><img src="https://img.shields.io/github/followers/Ryvanda?style=for-the-badge&color=0d1117&label=FOLLOWERS&logo=github" alt="Followers"/></a>
   </p>
@@ -32,31 +32,29 @@
 const ryvanda: Builder = {
   name: "Ryvanda",
   pronouns: "he/him",
-  role: "Software Engineer, QA & Systems Architect",
-  arcana: "I - The Magician (Manifestation & Systems Architecture)",
+  roles: {
+    primary: [
+      "Quality Assurance (QA) Engineer",
+      "Entrepreneur (Commodity Exporter & Tech Founder)"
+    ],
+    subRoles: [
+      "Software Testing & System Verification",
+      "Global B2B Spices Export & Value-First Trade",
+      "Systems Architecture & UML Modeling"
+    ]
+  },
   education: "Software Engineering @ Telkom University Purwokerto",
   ventures: {
-    ascend: "System Architecture & UML Workspace",
-    rycoSpices: "Next-Gen Value-First Indonesian Commodity Supply",
+    rycoSpices: "Next-Gen Indonesian Spices Export & Transparent Supply",
+    ascend: "System Architecture & UML Workspace"
   },
   location: "Indonesia, ID (UTC+07:00)",
   languages: ["id", "en"],
   stack: [
-    "Java", "TypeScript", "JavaScript", "Python", "FastAPI",
-    "Flutter", "Dart", "React", "PostgreSQL", "Supabase"
+    "Java", "TypeScript", "Python", "FastAPI", "Dart",
+    "Flutter", "React", "PostgreSQL", "Supabase", "Linux"
   ],
-  capabilities: [
-    "Quality Assurance (QA) & Software Testing",
-    "Systems Architecture & UML Modeling",
-    "RESTful API Design & Verification"
-  ],
-  interests: [
-    "Systems Thinking & Deep Modular Architecture",
-    "AI Agents & Model Context Protocol (MCP)",
-    "B2B Global Trade & Supply Chain Transparency",
-    "Developer Tooling & Interactive Systems",
-  ],
-  motto: "As above, so below — Turning conceptual will into working reality."
+  motto: "As above, so below — Bridging verified quality into tangible ventures."
 };
 ```
 
@@ -77,47 +75,47 @@ const ryvanda: Builder = {
   <tr>
     <td width="25%" valign="top">
       <b>The Sword</b><br>
-      <i>Intellect, Code & Quality</i>
+      <i>QA, Code & Verification</i>
       <ul>
-        <li>Java & OOP Architecture</li>
         <li>Quality Assurance (QA) & Testing</li>
+        <li>Test Case Design & Execution</li>
+        <li>Java & OOP Architecture</li>
         <li>TypeScript / JavaScript</li>
         <li>Python & FastAPI</li>
-        <li>Dart / Flutter</li>
-        <li>API Testing & Schema Validation</li>
+        <li>API & Schema Validation</li>
       </ul>
     </td>
     <td width="25%" valign="top">
       <b>The Wand</b><br>
-      <i>Vision & Architecture</i>
+      <i>Tech Ventures & Product</i>
       <ul>
-        <li>Ascend (UML Modeling)</li>
-        <li>System & Domain Design</li>
+        <li>Ascend (UML Modeling Tool)</li>
+        <li>Systems & Domain Design</li>
         <li>AI Agents & MCP Tooling</li>
-        <li>Product Strategy (MVP)</li>
+        <li>MVP Scoping & Prototyping</li>
         <li>Modular Architecture</li>
       </ul>
     </td>
     <td width="25%" valign="top">
       <b>The Pentacle</b><br>
-      <i>Reality & Execution</i>
+      <i>Commodity Export & Business</i>
       <ul>
-        <li>Ryco Spices (B2B Trade)</li>
-        <li>Supply Chain Transparency</li>
-        <li>PostgreSQL / Supabase</li>
-        <li>Quality Control (QC) & Lots</li>
-        <li>Linux & Server Operations</li>
+        <li>Ryco Spices (B2B Global Trade)</li>
+        <li>Indonesian Spices Export Strategy</li>
+        <li>Supplier Sourcing & Verification</li>
+        <li>Batch QC & Lot Traceability</li>
+        <li>PostgreSQL / Supabase Data</li>
       </ul>
     </td>
     <td width="25%" valign="top">
       <b>The Cup</b><br>
       <i>Intuition & Narrative</i>
       <ul>
-        <li>Value-First Storytelling</li>
-        <li>Educational Content</li>
-        <li>User-Centric Empathy</li>
+        <li>Value-First Business Storytelling</li>
+        <li>Educational Content for Buyers</li>
+        <li>User & Client Empathy</li>
         <li>Lifelong Craftsmanship</li>
-        <li>Documentation Integrity</li>
+        <li>Transparent Documentation</li>
       </ul>
     </td>
   </tr>
@@ -127,8 +125,8 @@ const ryvanda: Builder = {
 
 ### Active Ventures & Endeavors
 
+- **[Ryco Spices](https://github.com/Ryvanda)** — Next-generation B2B Indonesian spices export initiative focused on transparency, lot tracking, and value-first trade.
 - **[Ascend (Ascend Global Tech)](https://github.com/Ryvanda/ASCEND)** — Lightweight UML, architecture diagramming, and systems modeling workspace for engineers.
-- **[Ryco Spices](https://github.com/Ryvanda)** — Next-generation Indonesian spices export initiative focused on transparency, lot tracking, and verifiable quality.
 
 ---
 
